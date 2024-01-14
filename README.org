@@ -1,4 +1,4 @@
-#+Title: README
+#+Title: Wallpapers
 #+Author: Bot_Nikos
 
 * Description
